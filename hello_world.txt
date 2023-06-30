@@ -1,0 +1,7 @@
+Hello, world!
+
+I'm Lovely, a woman in her late 20's trying to learn web development for future career shifting plan.
+
+And I chose The Odin Project to help me with my journey.
+
+Happy coding!
